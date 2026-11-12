@@ -1,0 +1,4 @@
+Rank 1: Receiving from Rank 0
+Rank 0: Sending to Rank 1
+Rank 1 received: 100
+Rank 0 received: 100
